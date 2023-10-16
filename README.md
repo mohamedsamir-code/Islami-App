@@ -4,5 +4,5 @@ and Settings to switch between light & dark mode and switch between English & Ar
 💻 Built with
 Technologies used in the project:
 
-Dart
+Dart and
 Flutter
