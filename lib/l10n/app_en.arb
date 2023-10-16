@@ -1,0 +1,23 @@
+{
+    "appTitle" :  "Islami",
+    "suraName" : "Sura Names",
+    "ahadeth" : "Ahadeth",
+    "tasbehNums" :"Numbers of Tasbeh",
+    "quranRadio" : "El-Quran AlKareem Station",
+    "bottomNavQuran" : "Quran",
+    "bottomNavAhadeth" : "Ahadeth",
+    "bottomNavSebha" : "Al Tasbeh",
+    "bottomNavRadio" : "Radio",
+    "bottomNavSettings" : "Settings",
+    "settingsLanguage" : "Language",
+    "settingsLanguageAr" : "Arabic",
+    "settingsLanguageEn" : "English",
+    "settingsThemeing" : "Themeing",
+    "settingsThemeingLight" : "Light",
+    "settingsThemeingDark" : "Dark"
+}
+
+
+
+
+
