@@ -1,8 +1,10 @@
 Islami app is a Quran app that shows Quran Sura's Quran Ahadeth Sebha radio and Settings to switch between light & dark mode and switch between English & Arabic language
+
 💻 Built with
+
 Technologies used in the project:
 
-Dart
+Dart and
 Flutter
 
 ![image](https://github.com/mohamedsamir-code/Islami-App/assets/82676416/d16e8dc8-5266-48bf-8164-f04146b18984)
